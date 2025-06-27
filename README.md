@@ -1,6 +1,6 @@
 # portfolio
 Web link
-https://effervescent-puppy-5ce4d5.netlify.app/
+https://dimashaportfolio.netlify.app/
 
 Home Section
 ![Screenshot 2025-06-27 142029](https://github.com/user-attachments/assets/ecdc4129-39c5-4b7a-8a99-e065b34e18ab)
