@@ -61,7 +61,7 @@ This site serves as my digital resume and portfolio for employers, collaborators
 ### Steps
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Dimasha28/portfolio-website.git
    cd portfolio-website
 
 Home Section
